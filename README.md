@@ -1,2 +1,3 @@
-# hello-word
-just anothher respolitory
+hi
+humans
+good luck
